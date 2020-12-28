@@ -1,6 +1,6 @@
 name: env1
 channels:
-  - conda-forge
+  - default
 dependencies:
   - python
   - numpy
